@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivkesh Shinde</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="360" src="https://www.bing.com/th/id/OGC.8a3bcb7e671068f7841726ee04928601?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f9b%2f2b%2f2a%2f9b2b2a3a89e55d72d0bd6657cf7c6fd2.gif&ehk=bxgV02hXD3QOXayKOSF0%2fr%2fdHtdmNTvCHY2sKex0xGA%3d">
 <img align="right" alt="coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
